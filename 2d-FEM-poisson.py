@@ -140,7 +140,7 @@ def apply_neumann(
     """
     zoberie neumann conditions, prejde ich forcyklom a kazdu podmienku uplne spracuje a pricitat k vektoru b spravnu hodnotu
     """
-    # cyklus ktory pricituje k vektoru b podla toho ci sme sli cez json alebo py
+    # cyklus ktory pricituje k vektoru b
     for row in neumann_conditions:
         line_tag = row[0]
         function = row[1]
