@@ -1,5 +1,5 @@
 This project is a Python implementation of the Finite Element Method (FEM) to solve the 2D Poisson equation ($\nabla^2 u = f$) over user-defined polygonal domains. 
-The implementation was inspired by the article by Alberty, Carstensen, and Funken cited in the long-form documentation and guided by 
+The implementation was inspired by the article by Alberty, Carstensen, and Funken cited in the long-form documentation and guided by Dr. Jan Blechta. 
 
 
 The long-form pdf documentation of the project, explaining the solver in more depth is available [here](dokumentace_FEM_2d.pdf)
